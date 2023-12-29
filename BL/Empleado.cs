@@ -20,7 +20,7 @@ namespace BL
                 using (DL.JRamirezNCapasEntities context = new DL.JRamirezNCapasEntities())
                 {
 
-                    
+                    string variablePrueba = "cadena que no dice nada";
 
 
                 }
