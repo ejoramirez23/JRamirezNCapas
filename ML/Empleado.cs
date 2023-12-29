@@ -15,5 +15,11 @@ namespace ML
 
         public string ApellidoPaterno { get; set; }
 
+
+
+        public DateTime? FechaIngreso { get; set; }
+
+        public byte[] FotoEmpleado { get; set; }
+
     }
 }
